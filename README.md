@@ -1,6 +1,8 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<h1>
+  ## Hi there 👋  
+</h1>
+<p>
+  Fresh new start... one step at a time
 </p>
 
 <!--
