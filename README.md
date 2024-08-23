@@ -1,5 +1,5 @@
 <h1>
-  ## Hi there 👋  
+  Jin's Github 
 </h1>
 <p>
   Fresh new start... one step at a time
