@@ -7,21 +7,16 @@ I’m an **Analytics Engineer and Machine Learning specialist** currently living
 * **Algorithmic Problem Solving:** I’m a big fan of using Python and SQL to tackle complex logic, whether it's for work or just a good challenge on LeetCode.
 * **Financial Markets:** I have a long-standing interest in market strategies—I’ve spent a lot of time analyzing the mechanics of the "Kimchi Premium" and leveraged gold ETFs.
 * **Learning through Immersion:** I’m currently on a journey to master Spanish and love exploring new cultures (and recipes—I'm particularly fond of experimenting with noodle dishes!).
-* **My Co-pilot:** When I'm not coding, you can usually find me hanging out with my dog, Liu.
 
 ### Tech Stack:
 * **Languages:** Python, SQL, Spanish (in progress!)
-* **Tools/Software:** Tableau, Power BI, Streamlit
+* **Tools/Software:** Tableau, Power BI, Streamlit, Docker
 * **Specialties:** LLM fine-tuning, data visualization, and database systems.
 
 ### What I’m working on:
-Lately, I’ve been working on AI-driven initiatives for a public institute in Peru, including:
-* A spam call crackdown system using Whisper.
-* Semantic search engines for complex document archives.
-* Tools to analyze and classify large-scale claims databases.
+Lately, I’ve been working on AI-driven initiatives for a public institute in Latin America.
 
 ---
 
-*“Data is just the raw material; the real magic is in the logic you build on top of it.”*
+*“Data are just dots; the real magic is in the picture you draw by connecting them.”*
 
-Feel free to reach out if you want to chat about AI, financial arbitrage, or the best way to make buckwheat noodles!
